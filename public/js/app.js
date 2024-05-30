@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 const myHeaders = new Headers()
 myHeaders.append("Access-Control-Allow-Origin", "*")
 
